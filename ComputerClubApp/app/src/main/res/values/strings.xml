@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">NV Extras App</string>
+    <string name="hello_world">Hello World!</string>
+    <string name="action_settings">Settings</string>
+    <string name="computer_club">Computer Club</string>
+    <string name="club_list">Club List</string>
+    <string name="club_1">Example 1</string>
+    <string name="club_1_detail">This is the detail string for club 1</string>
+    <string name="title_activity_detail">DetailActivity</string>
+    <string-array name="club_names">
+        <item>Abraham Lincoln Book Club</item>
+        <item>Anime Club</item>
+        <item>Art Club</item>
+        <item>Asian Student Association</item>
+        <item>Aspiring Medical Professional Of America</item>
+        <item>Best Buddies</item>
+        <item>Black Student Alliance</item>
+        <item>Business Professionals Of America</item>
+        <item>Chamber Singers</item>
+        <item>Chess Team</item>
+        <item>Deca</item>
+        <item>Drama</item>
+        <item>Drama Club</item>
+        <item>Drama Club Tech Crew</item>
+        <item>Environmental Club</item>
+        <item>Fellowship Of Christian Students</item>
+        <item>Finance Club</item>
+        <item>French Activities/French Honor Society</item>
+        <item>Future Educators Of America</item>
+        <item>Gay/Straight Alliance</item>
+        <item>German Activities</item>
+        <item>I.D.E.A.</item>
+        <item>Interact</item>
+        <item>Interactive Gaming Club</item>
+        <item>Intramural Director</item>
+        <item>Intramural Badminton</item>
+        <item>Intramural Basketball</item>
+        <item>Intramural Bowling</item>
+        <item>Intramural Flag Football</item>
+        <item>Intramural Golf</item>
+        <item>Intramural Indoor Soccer</item>
+        <item>Intramural Powder Puff</item>
+        <item>Intramural Rock Climbing</item>
+        <item>Intramural Softball</item>
+        <item>Intramural Table Tennis</item>
+        <item>Intramural Volleyball</item>
+        <item>Intramural Weight Room</item>
+        <item>iSTEM</item>
+        <item>Knitting And Crocheting Club</item>
+        <item>Literary Magazine</item>
+        <item>Math Team</item>
+        <item>Model United Nations</item>
+        <item>Mu Alpha Theta</item>
+        <item>Muslim Student Association</item>
+        <item>Nvhs Steppers</item>
+        <item>Operation Snowball</item>
+        <item>Orchesis Dance Company</item>
+        <item>Outdoor Club</item>
+        <item>Scholastic Bowl</item>
+        <item>School Newspaper</item>
+        <item>Science Olympiad</item>
+        <item>Ski Club</item>
+        <item>Spanish Activities/Spanish Honor Society</item>
+        <item>Speech Team</item>
+        <item>Star Raiders</item>
+        <item>Student Council</item>
+        <item>Tv Production Club</item>
+        <item>Unicef</item>
+        <item>Urban Arts Club</item>
+        <item>Youth In Government</item>
+        <item>Wildcats Vocal Jazz</item>
+    </string-array>
+    <string-array name="club_details">
+        <item>This is a book discussion group.</item>
+        <item>Anime Club is dedicated to the study of great animation. Although the Anime Club specializes in Japanese animation, quality animation is viewed no matter its country of origin.</item>
+        <item>Art Club is for all students. Meetings involve making art such as ceramics, drawings, paintings, computer graphics, and printmaking. We welcome everyone interested in having fun while being creative.</item>
+        <item>The Asian Student Association is a social-cultural organization that is open to all students who are interested in Asian cultures such as Chinese, Japanese, Korean, Malaysia, Philippino, Singaporean, Thai, Vietnamese, and etc. We aim to promote cultural awareness in appreciation of the rich diversity that exists within the Asian American community through organizing social events in the spirit of entertainment, friendship, and unity in a fun, comfortable, stereotype-free environment for individuals from all ethnic backgrounds to come together and learn about our differences as well as discover our similarities.</item>
+        <item>The purpose of this club is to inform students and raise awareness of the benefits that can be achieved through pursuing a career in the medical or health field; to facilitate the interests of the students at NVHS in the health care field by exposing them to opportunities through observations, discussions and experiences with the community; to provide information on the academic needs and admission requirements for college and to encourage their involvement in volunteering in the health care field. AMP meets two times /month after school at the main campus.</item>
+        <item>This is an organization that promotes activities and events with special needs students. Students attend school events together and work on school projects.</item>
+        <item>The Black Student Alliance is an organization that focuses on promoting academic success, community involvement, and cultural awareness. The organization explores cultural diversity while discussing issues that are unique to the Neuqua Valley experience.</item>
+        <item>BPA is open to any student enrolled in a business class or interested in Business Technology, Office Management, or Accounting Careers. Members may participate in area, state and national competitions and attend conferences, in addition to practicing leadership skills and social and civic awareness. </item>
+        <item>This co-curricular women’s ensemble involves approximately 40 soprano and alto voices in 9th-12th grade. Students must be enrolled in a curricular vocal ensemble, but not a member of the WildScats. These students will have the opportunity to explore a wide variety of challenging literature. Literature may include madrigals, motets, upper level classical literature, and other literature students might not have the opportunity to work on in their curricular choirs. The ensemble meets for two hours every Wednesday evening. </item>
+        <item>Chess Club is open to all students. Instruction and recreational chess are available through the club as well as interscholastic competition. Meetings and competitions are held from October through February.</item>
+        <item>DECA is a business club designed for students who have taken or are currently enrolled in any business course. The purpose of DECA is to teach leadership and to involve students in business situations through the use of role-plays and research projects. There are opportunities for leadership conferences and competitions at the local, state, and national levels.</item>
+        <item>A variety of dramatic opportunities are offered to students. Each year, two main stage productions and a musical are offered. In addition, several studio productions may be staged including a children\'s theater and student directed one-act plays. Other opportunities for students to become involved in acting are offered through participation in the IHSA Speech, Group Interpretation, and Individual Events. Students are also encouraged to become involved behind the scenes in areas of technical theatre. The Drama Club coordinates activities and field trips such as to the Illinois Theatre Festival.</item>
+        <item>The Drama Club provides support and assistance for all theatrical activities at NVHS through such behind the scenes activities as ushering, ticket and concessions sales, and publicity. Students also have the opportunity to participate in a variety of workshops and field trips throughout the year.</item>
+        <item>The Tech Crew supports the NVHS theatrical activities by designing sets and props, lighting and sound, and providing back stage assistance.</item>
+        <item>The Environmental Club involves students in community service and school awareness of local and global environmental issues such as recycling and global warming. Students are encouraged to become involved in environmental issues and advocate on behalf of those issues with our school community.</item>
+        <item>Fellowship of Christian Students (FCS) is an inter-denominational student-led organization that meets weekly to study, connect, and discuss the Christian faith.</item>
+        <item>Finance Club is designed for students interested in Finance and Economics. Most meetings include student-lead discussions over interested financial topics as well as time to informally learn about the material. Throughout the year you also have the opportunity to compete in multiple financial challenges and stock market portfolio challenges. Learn, explore, experiment, and have fun with stocks and investing strategies.</item>
+        <item>French Club is an exploration of French culture, art, food and fun. Activities range from exclusive art expositions in downtown Chicago to cozy movie and fondue nights. Students in 3rd and 4th year French classes may be honored in the French Honor Society, a service based academic honor. Membership in the French Honor Society is by invitation based on academic performance.</item>
+        <item>In conjunction with Aurora University, the Future Educators Association provides a club for interested students to explore careers in education. Club members are invited to attend conferences, observe professionals, and participate in local teacher recognition activities.</item>
+        <item>The Neuqua Valley Gay/Straight Alliance is an organization focusing on human rights. GSA brings homosexual and heterosexual students together to promote a safe and accepting environment for all regardless of sexual orientation. The mission of this club is truly to combat homophobia in our school and to help achieve equality for all people. Activities include community service projects, fundraisers, and social events.</item>
+        <item>Any student interested in German culture may join the German Club. Activities include games, movies, cooking, festivals, and field trips. The German Honor Society is available to any student enrolled in 3rd or 4th year German classes who exhibits high academic performance. This club offers them recognition for their performance and dedication in German classes.</item>
+        <item>The NVHS IDEA Club is a great way to meet NVHS TEE Department staff and students who share the same interests in various areas of Technology and Engineering. While part of this club, students will have the ability to learn and use current equipment and software used throughout industry. In addition, members will get the chance to represent NVHS at the regional and state level. Most importantly, members will get the opportunity to expand their knowledge of CAD and Drafting to prepare themselves for college, trade schools, or future careers.</item>
+        <item>Any interested student may join. Interact is a service organization of young men and women. The club sponsors various projects throughout the year designed to help others less fortunate or those in need.</item>
+        <item>The mission of the Interactive Gaming Club is to organize and facilitate game enthusiasts of all kinds through our gamers\' network, friendly and accepting atmosphere and conversations. The members are dedicated to playing strategy, war, board, role-playing, miniature battle, and collectible game cards. All levels of skill and interest are welcome. Meetings are held after school on Thursdays in the Freshman Building Cafeteria.</item>
+        <item>For All Intramural Sports visit the Intramural Page for more details.</item>
+        <item>Visit the Intramural Page for details. </item>
+        <item>Visit the Intramural Page for more details.</item>
+        <item>Visit the Intramural Page for more details.</item>
+        <item>Visit the Intramural Page for more details.</item>
+        <item>Visit the Intramural Page for more details.</item>
+        <item>Visit the Intramural Page for more details.</item>
+        <item>Visit the Intramural Page for more details.</item>
+        <item>Visit the Intramural Page for more details.</item>
+        <item>Visit the Intramural Page for more details.</item>
+        <item>Visit the Intramural Page for more details.</item>
+        <item>Visit the Intramural Page for more details.</item>
+        <item>Visit the Intramural Page for more details.</item>
+        <item>iSTEM at Neuqua Valley encompasses Science, Technology, Engineering and Mathematics through providing students with opportunities in research and design  projects.  Neuqua iSTEM offers a rocketry group, two of our rocket groups from the 12-13 school year competed in the national rocketry competition in Virginia.  We also offer the opportunity for students to perform research in any independent area and will assist students in finding community support and mentors.  We also have a science research group specifically working with Argonne National Labs performing experiments with Argonne scientists and their equipment.  We also offer a QuarkNet group which specifically works with professors at Northern Illinois University and professionals at Fermi Lab to study high particle physics, muons specifically.  The past two years of iSTEM at NVHS have been highly successful in the research areas and the majority of our student research groups bring home high awards from the State Science Fair. </item>
+        <item>Learn how to knit and crochet. We knit and crochet items and donate them to people in need. No experience is necessary.</item>
+        <item>Students interested in creative writing and journalism may join. The staff meets throughout the year to select items and prepare for the May publication, The Essence, a collection of our school\'s finest student writing and art. The Essence is submitted annually to the National Council of Teachers of English for evaluation</item>
+        <item>Any student interested in participating in Math competitions may join. Practices are held weekly throughout the year. This club participates in both local and state competitions.</item>
+        <item>Participation in the Model United Nations Club is open to all grade levels. Participants research current international events and debate related issues at two conferences held at the University of Chicago and the University of Illinois. Model UN offers a unique opportunity to study current news topics, develop high-level communication skills, and socialize with high-school students from across the United States.</item>
+        <item>MAT, the National Mathematics Honor Society, is dedicated to inspiring keen interest in mathematics, developing strong scholarship in the subject, and promoting the enjoyment of mathematics.</item>
+        <item>The Muslim Student Association is a service organization that typically meets every Friday after school. The MSA sponsors various service projects along with two formal dinners. One of these dinners is to celebrate the end of the holy month of Ramadan. Any student interested in learning more about Islam and engaging in dialogue with fellow students is welcome to attend.</item>
+        <item>NVHS Steppers is a performing Step Troupe for students in their freshman through senior years. Membership is by auditions, which are held in the fall. Any student may audition. The troupe performs throughout the year at basketball games and at school events.</item>
+        <item>Snowball is a substance abuse prevention/positive self-esteem / teen leadership program for all students. There are two weekend retreats each school year - one in the fall and one in the spring. Learn more about yourself while learning about others. All five Naperville area schools participate on the weekends. Having fun and making good choices are what Snowball is all about.</item>
+        <item>Orchesis: Greek word meaning \'to dance\'. Neuqua Valley Orchesis Dance Company celebrates and shares an appreciation for the many disciplines of dance including jazz, hip-hop, ballet, pointe, tap, lyrical, modern, and partnering.This multi-disciplined, performance-based dance company is comprised of freshmen through seniors selected through a spring audition process. Members rehearse three afternoons a week from August through March. Rehearsals focus on technique and performance preparation, including a stage production in February. Auditions are held Spring of previous year.</item>
+        <item>The club is open to any students interested in fishing and other outdoor activities. Club activities include events such as attending informational seminars held on and off campus and practicing angling skills in local waters. The club supports both the novice and skilled angler and meets throughout the year.</item>
+        <item>Scholastic Bowl is ideal for trivia buffs and Jeopardy lovers. Any interested student may join at any time from October through April. Matches are held with all conference schools, and other local schools. The team also participates in invitational tournaments and state tournaments.</item>
+        <item>The Echo is produced monthly by the newspaper journalism class. Students with talent in writing, photography, design, and business are needed. To be on staff, students must apply to the newspaper journalism class and receive teacher approval.</item>
+        <item>Science Olympiad is a team academic competition. We have openings on both Junior Varsity teams and Varsity team. Students of all academic backgrounds and ages are welcome! We compete in 23 events covering aspects of life, earth and physical sciences. There are building and engineering events, as well. Topics may include: forensics, cell biology, electricity, water rockets and titrations. No player is expected to know all the material before joining. We have practice time to work on events.</item>
+        <item>Neuqua Valley Ski Club is for the adventurous and hearty! We take two charter buses on four separate Saturday trips during the months of January and February (dates will be announced in the fall). In order to attend any of the trips, you must attend one of the informational meetings held in mid-November to pick up literature and waivers.</item>
+        <item>This club is for any student interested in the Spanish culture and language. Students need not be in Spanish class to join. Activities include having fiestas, going to Hispanic restaurants, playing games in Spanish, cooking and trying different Hispanic foods, watching movies in Spanish, and making crafts like pi–atas. The Spanish Honor Society provides an opportunity to recognize outstanding scholarship in the study of Spanish. Spanish Honor Society members must be enrolled in their 3rd or 4th year of Spanish, be recommended by a teacher, have a cumulative grade point average of at least 3.6, and have received an A in all Spanish classes taken during high school.</item>
+        <item>All students are invited to audition for the Speech Team. The season begins with open auditions in October for all thirteen of the IHSA events: the acting duets, the interpretations, the readings, the comedic speeches, the oration, the impromptu events, and the radio speaking. Students are guided to the category in which they would have the most success. Rehearsals begin in mid-October and continue through the season. The Junior Varsity attends speech meets on Saturdays from December through January. The Varsity meets begin in November. Anyone on the team is eligible to make his or her way onto the Varsity team, the Conference team and/or the Regional team and advance to the state championships in February.</item>
+        <item>Star Raiders is for any student willing to make the commitment to remain drug and alcohol free the entire school year and to be a positive role model to the younger students in Indian Prairie School District by promoting a healthy life style. Star Raiders will celebrate Red Ribbon Week in October and will have the opportunity to visit 1st - 5th grade students during March, as well as to participate in other community service projects.</item>
+        <item>This organization is for students who are interested in leadership roles in their school. A six member executive board represents the student body, while each class elects four officers and approximately fifteen representatives. All student council members aid in organizing, developing, improving, and implementing activities. Many activities promote both school and community involvement. Full student council meetings are held once each month during the school day in Room C202, and class meetings are held every Tuesday at 6:45 a.m.</item>
+        <item>Students in this award winning club produce, direct, and at times, star in their own video productions. Additionally, they produce films of school club activities, meetings, athletic events, and productions.</item>
+        <item>The UNICEF Club at Neuqua Valley High School seeks to educate and engage the student body in the work of the United Nations Children\'s Fund. We work towards the Millennium Development Goals through local projects with global impacts, and educate members - as well as the greater community  with macro and micro perspectives. Focal points of our work thus far have included financing a well that produces clean water for an entire village, setting the all-time packing record at Feed My Starving Children, and winning the national Movies 4 Development competition. Why do we do it?  Because we Believe in Zero.</item>
+        <item>The Urban Arts Club (UAC) is for any student looking for a safe and positive environment to enhance their creative talents. Students will focus on building a strong and healthy community by using the elements of break dancing, spoken word, mural art, and urban/cultural music. The UAC hosts club fundraisers, school events, and participates in many school performances.</item>
+        <item>Youth and Government is a program co-sponsored with the YMCA for students interested in the various aspects of Illinois State Government. Student legislators, attorneys, lobbyists, pages, and members of the press prepare for the Model Youth Legislature and Court, which meets in Springfield each March. There, students literally take over the seat of the government debating bills, arguing and judging cases, and reporting the news of the day. Youth and Government is open to Sophomores through Seniors and members must be prepared to meet regularly and work closely in teams.</item>
+        <item>Wilscats is a music performance ensemble that focuses on the stylization of jazz and swing that is open to all grades with tryouts held in the spring.  Wildscats has two performing groups: blue and gold.  They perform with the jazz and swing bands, community music groups, and at NVHS events.  Practices are held weekly during the early evening, and occasionally mornings before school. </item>
+    </string-array>
+
+</resources>
